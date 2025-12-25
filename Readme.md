@@ -1,8 +1,8 @@
 ## FLOW
 
-Enquiry TG: https://t.me/emmarktech
+Enquiry TG: https://t.me/Carl_Crypt
 
-Discord Community: https://discord.gg/UEmCAbhz9W
+Discord Community:  https://discord.gg/GY98cMUT7j
 
 #install
 	- setup the Node.js
@@ -40,5 +40,5 @@ Discord Community: https://discord.gg/UEmCAbhz9W
 
 	ts-node index.ts remove -p <pooladdress> -a <amount>  //set amount -1 to remove all liquidity
 
-Enquiry_telegram: @emmarktech
+Enquiry_telegram: @Carl_Crypt
 
